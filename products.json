@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nombre": "Producto 1",
+    "precio": 150,
+    "descripcion": "Descripcion 1",
+    "stock": 5,
+    "imagen": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "nombre": "Producto 2",
+    "precio": 200,
+    "descripcion": "Descripcion 2",
+    "stock": 20,
+    "imagen": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "nombre": "Producto 3",
+    "precio": 250,
+    "descripcion": "Descripcion 3",
+    "stock": 15,
+    "imagen": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "nombre": "Producto 4",
+    "precio": 180,
+    "descripcion": "Descripcion 4",
+    "stock": 25,
+    "imagen": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 5,
+    "nombre": "Producto 5",
+    "precio": 300,
+    "descripcion": "Descripcion 5",
+    "stock": 18,
+    "imagen": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 6,
+    "nombre": "Producto 6",
+    "precio": 220,
+    "descripcion": "Descripcion 6",
+    "stock": 22,
+    "imagen": "https://via.placeholder.com/150"
+  },
+  {
+    "nombre": "Producto Nuevo",
+    "precio": 29.99,
+    "descripcion": "Descripción del Producto Nuevo",
+    "stock": 5,
+    "imagen": "https://via.placeholder.com/150",
+    "id": 7
+  },
+  {
+    "nombre": "Producto Nuevo",
+    "precio": 29.99,
+    "descripcion": "Descripción del Producto Nuevo",
+    "stock": 5,
+    "imagen": "https://via.placeholder.com/150",
+    "id": 8
+  }
+]
